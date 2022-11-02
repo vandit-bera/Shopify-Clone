@@ -60,7 +60,7 @@
 
 ---
 
-#### Project Link: [https://github.com/vandit-bera/Shopify-Clone](https://github.com/vandit-bera/Shopify-Clone)
+#### Project Link: [GitHub](https://github.com/vandit-bera/Shopify-Clone)
 
 ---
 
